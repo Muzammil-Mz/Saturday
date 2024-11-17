@@ -26,25 +26,56 @@
 
 
 // 3. Determine if a person is eligible to vote based on their age.
-let age=20
-let voterid=false
-if(age>18){
-    if (voterid==true) {
-        console.log("can vote");
+// let age=20
+// let voterid=false
+// if(age>18){
+//     if (voterid==true) {
+//         console.log("can vote");
         
-    } else{
-console.log("get your voter id and go for vote");
+//     } else{
+// console.log("get your voter id and go for vote");
 
-    } 
-}
-else{
-    console.log("sorry cant vote");
+//     } 
+// }
+// else{
+//     console.log("sorry cant vote");
     
-}
-
+// }
 
 // 4. Find the largest of two numbers.
+// let largest1=55
+// let largest2=66
+// if(largest1>largest2){
+//     console.log("1 is greater than 2");
+    
+// } else if(largest2>largest1){
+//     console.log("2 is greater");
+    
+// }else {
+//     console.log("both are equal");
+    
+// }
+
+
+
 // 5. Find the largest of three numbers.
+// let numb1=55
+// let numb2=660
+// let numb3=77
+// if (numb1>numb2 && numb1>numb3){
+//     console.log("numb1 is greater");
+    
+// } else if(numb2>numb3 && numb2>numb1){
+//     console.log("numb 2 is greater");
+    
+// } else{
+//     console.log("numb 3 is greater");
+    
+// }
+
+
+
+
 // 6. Check if a given character is a vowel or a consonant.
 // 7. Determine if a number is even or odd.
 // 8. Check if a number is divisible by 5 and 11.
