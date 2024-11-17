@@ -100,21 +100,39 @@
 
 
 // 8. Check if a number is divisible by 5 and 11.
-let number=33
-if(number%5==0){
-    console.log("divisible by 5");
+// let number=33
+// if(number%5==0){
+//     console.log("divisible by 5");
     
-}else if(number%11==0){
-    console.log("divisible by 11");
+// }else if(number%11==0){
+//     console.log("divisible by 11");
     
-}else{
-    console.log("not divisible by 11 and 5");
+// }else{
+//     console.log("not divisible by 11 and 5");
     
-}
+// }
 
 
 
 // 9. Verify if a triangle is valid based on its angles.
+// let side1=8
+// let side2=4
+// let side3=4
+
+// if(side1==side2 && side1==side3){
+//     console.log("equilatral triangle");
+    
+// }else if(side1==side2 ||side1==side3 ||side2==side3){
+//     console.log("isolateral");
+    
+// }else{
+//     console.log("scalene");
+    
+// }
+
+
+
+
 // 10. Categorize grades based on a percentage: A (90+), B (80-89), C (70-79), F (<70).
 // 11. Identify whether a person is a child, teenager, or adult based on age.
 // 12. Check if a given number is a multiple of 3 or 7.
