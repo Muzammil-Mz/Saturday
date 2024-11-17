@@ -134,20 +134,20 @@
 
 
 // 10. Categorize grades based on a percentage: A (90+), B (80-89), C (70-79), F (<70).
-let percent=85
-if(percent>=90){
-    console.log("A");
+// let percent=98
+// if(percent>=90){
+//     console.log("A");
     
-} else if(percent>=80 && percent<=89){
-    console.log("B");
+// } else if(percent>=80 && percent<=89){
+//     console.log("B");
     
-}else if(percent>=70 && percent<=79){
-    console.log("C");
+// }else if(percent>=70 && percent<=79){
+//     console.log("C");
     
-}else{
-    console.log("f");
+// }else{
+//     console.log("f");
     
-}
+// }
 
 
 
