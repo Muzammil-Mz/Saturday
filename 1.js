@@ -197,6 +197,18 @@
 // }
 
 // 14. Check if a given year is a century year.
+// let year=2001
+// if(year%100==0){
+//     console.log("century");
+    
+// }else{
+//     console.log("no ");
+    
+// }
+
+
+
+
 // 15. Calculate the electricity bill based on usage (slab rates provided).
 // 16. Find the smallest of three numbers.
 // 17. Determine whether a number lies in a specific range (e.g., 10-50).
