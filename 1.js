@@ -76,19 +76,44 @@
 
 
 // 6. Check if a given character is a vowel or a consonant.
-let char="z"
-// let vowels=["a","e","i","o","u"]
-if(char=="a"||char=="e"||char=="i"||char=="o"||char=="u"){
-console.log("its vowel");
+// let char="z"
+// // let vowels=["a","e","i","o","u"]
+// if(char=="a"||char=="e"||char=="i"||char=="o"||char=="u"){
+// console.log("its vowel");
 
+// }else{
+//     console.log("its consonant");
+    
+// }
+
+
+// 7. Determine if a number is even or odd.
+// let evenodd=6
+// if(evenodd%2==0){
+//     console.log("even");
+    
+// }else{
+//     console.log("odd");
+    
+// }
+
+
+
+// 8. Check if a number is divisible by 5 and 11.
+let number=33
+if(number%5==0){
+    console.log("divisible by 5");
+    
+}else if(number%11==0){
+    console.log("divisible by 11");
+    
 }else{
-    console.log("its consonant");
+    console.log("not divisible by 11 and 5");
     
 }
 
 
-// 7. Determine if a number is even or odd.
-// 8. Check if a number is divisible by 5 and 11.
+
 // 9. Verify if a triangle is valid based on its angles.
 // 10. Categorize grades based on a percentage: A (90+), B (80-89), C (70-79), F (<70).
 // 11. Identify whether a person is a child, teenager, or adult based on age.
