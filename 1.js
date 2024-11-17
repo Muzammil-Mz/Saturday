@@ -210,6 +210,13 @@
 
 
 // 15. Calculate the electricity bill based on usage (slab rates provided).
+// let units=20
+// let ppunit=8
+
+
+
+
+
 // 16. Find the smallest of three numbers.
 // 17. Determine whether a number lies in a specific range (e.g., 10-50).
 // 18. Check if a user input is a palindrome (string or number).
