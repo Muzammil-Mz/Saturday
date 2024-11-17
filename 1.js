@@ -218,7 +218,43 @@
 
 
 // 16. Find the smallest of three numbers.
+
+let numb1=55
+let numb2=660
+let numb3=77
+if (numb1<numb2 && numb1<numb3){
+    console.log("numb1 is small",numb1);
+    
+} else if(numb2<numb3 && numb2<numb1){
+    console.log("numb 2 is small",numb2);
+    
+} else{
+    console.log("numb 3 is small",numb3);
+    
+}
+
+
+
 // 17. Determine whether a number lies in a specific range (e.g., 10-50).
+let number=5
+let range1=10-19
+let range2=20-30
+let range3=0-9
+if (number==range1){
+    console.log("belongs to 10-19");
+    
+} else if(number==range2){
+    console.log("belongs to 20-30");
+    
+} else {
+    console.log("belongs");
+    
+}
+
+
+
+
+
 // 18. Check if a user input is a palindrome (string or number).
 // 19. Validate if a number is a perfect square.
 // 20. Check if a number is positive and even, negative and odd, or zero.
