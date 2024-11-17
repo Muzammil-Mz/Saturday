@@ -153,6 +153,18 @@
 
 
 // 11. Identify whether a person is a child, teenager, or adult based on age.
+let age=55
+if(age<=12){
+    console.log("child");
+    
+}else if(age>=13 && age<20){
+    console.log("teen");
+    
+}else{
+    console.log("adult");
+    
+}
+
 // 12. Check if a given number is a multiple of 3 or 7.
 // 13. Determine the type of a character (uppercase, lowercase, digit, or special symbol).
 // 14. Check if a given year is a century year.
