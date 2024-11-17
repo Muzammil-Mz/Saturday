@@ -259,17 +259,19 @@
 
 
 // 18. Check if a user input is a palindrome (string or number).
-let string ="abc"
-let c=string.toString()
-let rev=c.split().reverse().join()
-if (c===rev){
-    console.log("palind");
+// let string ="1321"
+// let c=string.toString("")
+// let rev=c.split("").reverse("").join("")
+// if (c===rev){
+//     console.log("palind");
     
-}else{
-    console.log("sorry");
+// }else{
+//     console.log("sorry");
     
-}
+// }
 
 
 // 19. Validate if a number is a perfect square.
+// 
+
 // 20. Check if a number is positive and even, negative and odd, or zero.
