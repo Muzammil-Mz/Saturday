@@ -75,8 +75,18 @@
 
 
 
-
 // 6. Check if a given character is a vowel or a consonant.
+let char="z"
+// let vowels=["a","e","i","o","u"]
+if(char=="a"||char=="e"||char=="i"||char=="o"||char=="u"){
+console.log("its vowel");
+
+}else{
+    console.log("its consonant");
+    
+}
+
+
 // 7. Determine if a number is even or odd.
 // 8. Check if a number is divisible by 5 and 11.
 // 9. Verify if a triangle is valid based on its angles.
