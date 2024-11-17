@@ -275,14 +275,14 @@
 // 
 
 // 20. Check if a number is positive and even, negative and odd, or zero.
-let numb=5
-if(numb>0){
-    console.log("positive");
+// let numb=0
+// if(numb>0){
+//     console.log("positive");
     
-}else if(numb<0){
-    console.log("negative");
+// }else if(numb<0){
+//     console.log("negative");
     
-}else{
-    console.log("zero");
+// }else{
+//     console.log("zero");
     
-}
+// }
