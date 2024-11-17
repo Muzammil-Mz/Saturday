@@ -14,20 +14,24 @@
 
 
 // 2. Check if a given year is a leap year.
-let year=2024
-if(year%4==0 || year %100 !=0 && year%400==0){
-    console.log("its a leap");
+// let year=2028
+// if(year%4==0 || year %100 !=0 && year%400==0){
+//     console.log("its a leap");
     
-}else{
-    console.log("nota leap");
+// }else{
+//     console.log("nota leap");
     
-}
-
-
+// }
 
 
 
 // 3. Determine if a person is eligible to vote based on their age.
+
+
+
+
+
+
 // 4. Find the largest of two numbers.
 // 5. Find the largest of three numbers.
 // 6. Check if a given character is a vowel or a consonant.
