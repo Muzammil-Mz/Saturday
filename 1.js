@@ -134,6 +134,24 @@
 
 
 // 10. Categorize grades based on a percentage: A (90+), B (80-89), C (70-79), F (<70).
+let percent=85
+if(percent>=90){
+    console.log("A");
+    
+} else if(percent>=80 && percent<=89){
+    console.log("B");
+    
+}else if(percent>=70 && percent<=79){
+    console.log("C");
+    
+}else{
+    console.log("f");
+    
+}
+
+
+
+
 // 11. Identify whether a person is a child, teenager, or adult based on age.
 // 12. Check if a given number is a multiple of 3 or 7.
 // 13. Determine the type of a character (uppercase, lowercase, digit, or special symbol).
