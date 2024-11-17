@@ -153,20 +153,49 @@
 
 
 // 11. Identify whether a person is a child, teenager, or adult based on age.
-let age=55
-if(age<=12){
-    console.log("child");
+// let age=55
+// if(age<=12){
+//     console.log("child");
     
-}else if(age>=13 && age<20){
-    console.log("teen");
+// }else if(age>=13 && age<20){
+//     console.log("teen");
     
-}else{
-    console.log("adult");
+// }else{
+//     console.log("adult");
     
-}
+// }
 
 // 12. Check if a given number is a multiple of 3 or 7.
+// let numb=56
+// if(numb%3==0){
+//     console.log("multiple of 3");
+    
+// }else if(numb%11==0){
+//     console.log("multiple of 11");
+    
+// }else{
+//     console.log("try agian");
+    
+// }
+
+
+
 // 13. Determine the type of a character (uppercase, lowercase, digit, or special symbol).
+// let char=6
+// if(char>="a"&&char<="z"){
+//     console.log("lower case");
+    
+// } else if (char>="A"&&char<="Z"){
+//     console.log("upper case");
+    
+// }else if(char>=0 && char<=9){
+//     console.log("digit");
+    
+// }else{
+//     console.log("symbol");
+    
+// }
+
 // 14. Check if a given year is a century year.
 // 15. Calculate the electricity bill based on usage (slab rates provided).
 // 16. Find the smallest of three numbers.
