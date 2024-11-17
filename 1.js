@@ -236,18 +236,34 @@
 
 
 // 17. Determine whether a number lies in a specific range (e.g., 10-50).
-let number=55
-let range1=10-19
-let range2=20-30
-let range3=0-9
-if (number==range1){
-    console.log("belongs to 10-19");
+// let number=55
+// let range1=10-19
+// let range2=20-30
+// let range3=0-9
+// if (number==range1){
+//     console.log("belongs to 10-19");
     
-} else if(number==range2){
-    console.log("belongs to 20-30");
+// } else if(number==range2){
+//     console.log("belongs to 20-30");
     
-} else if(number==range3) {
-    console.log("belongs to 0-9");
+// } else if(number==range3) {
+//     console.log("belongs to 0-9");
+    
+// }else{
+//     console.log("sorry");
+    
+// }
+
+
+
+
+
+// 18. Check if a user input is a palindrome (string or number).
+let string ="abc"
+let c=string.toString()
+let rev=c.split().reverse().join()
+if (c===rev){
+    console.log("palind");
     
 }else{
     console.log("sorry");
@@ -255,9 +271,5 @@ if (number==range1){
 }
 
 
-
-
-
-// 18. Check if a user input is a palindrome (string or number).
 // 19. Validate if a number is a perfect square.
 // 20. Check if a number is positive and even, negative and odd, or zero.
