@@ -26,10 +26,21 @@
 
 
 // 3. Determine if a person is eligible to vote based on their age.
+let age=20
+let voterid=false
+if(age>18){
+    if (voterid==true) {
+        console.log("can vote");
+        
+    } else{
+console.log("get your voter id and go for vote");
 
-
-
-
+    } 
+}
+else{
+    console.log("sorry cant vote");
+    
+}
 
 
 // 4. Find the largest of two numbers.
